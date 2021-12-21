@@ -1,0 +1,3 @@
+to get the screen surface:
+self.manager.screen_surface
+
