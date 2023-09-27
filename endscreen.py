@@ -18,7 +18,7 @@ class EndScreen:
         #Renders the
         screen_width = self.manager.screen_surface.get_rect().width
         screen_height = self.manager.screen_surface.get_rect().height
-        self.font = pygame.font.SysFont('comicsansms', screen_width // 8)
+        self.font = pygame.font.SysFont('comicsansms', screen_width // 16)
         textsurface = self.font.render('Game Over: Year {}'.format(gamescreen.facts.year), False, (0, 0, 0))
         half_text_width = textsurface.get_rect().width
         self.manager.screen_surface.blit(textsurface,(screen_width /2 - half_text_width /2, 30))
