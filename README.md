@@ -1,4 +1,5 @@
 # Pollution Patrol PyGame
+![PollutionPatrol](https://github.com/Kempster33/Pollution-Patrol-Pygame/assets/15764472/6a80c050-2c90-4c65-ab2f-ccd3429cb5f8)
 
 ## Problem
 High levels of Disbelief of Scientific fact in NZ. DSSM (Fake org for hackathon) Require application to mitigate this in NZ society.
