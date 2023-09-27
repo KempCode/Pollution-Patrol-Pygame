@@ -1,4 +1,4 @@
-# hackathon-2019
+# Pollution Patrol PyGame
 
 ## Problem
 High levels of Disbelief of Scientific fact in NZ. DSSM (Fake org for hackathon) Require application to mitigate this in NZ society.
@@ -20,3 +20,19 @@ sea levels rising. This game is meant for children, so it will be fun and intera
 the scary truth of how fast global warming is occurring and hopefully influence change in a new
 generation of Scientists and Engineers.
 There will be a focus on realism regarding the facts that are shown, to mitigate the effects of fake facts being shown to children online.
+
+## Installation
+
+# Clone the repository
+git clone <repository-url>
+
+# Navigate to the project directory
+cd project-name
+
+# Install project dependencies
+pip install -r requirements.txt
+
+
+## Run The game
+In windows:
+py main.py
